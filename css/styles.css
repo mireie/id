@@ -6,3 +6,12 @@
 .col-3 img {
   max-width:90%;
 }
+.before {
+  background-color:lightcoral;
+}
+.during {
+  background-color:lightgoldenrodyellow;
+}
+.after {
+  background-color:lightgreen;
+}
