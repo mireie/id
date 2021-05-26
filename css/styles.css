@@ -3,3 +3,6 @@
   border:solid black 5px;
   float:left;
 }
+.col-3 img {
+  max-width:90%;
+}
